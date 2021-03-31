@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "InterviewTask": {
+      "commandName": "Project",
+      "commandLineArgs": "rcp1.csv"
+    }
+  }
+}

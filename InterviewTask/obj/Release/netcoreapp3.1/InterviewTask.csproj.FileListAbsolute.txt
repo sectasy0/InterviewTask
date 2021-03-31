@@ -1,0 +1,13 @@
+C:\Users\Piotrek\source\repos\InterviewTask\InterviewTask\bin\Release\netcoreapp3.1\InterviewTask.exe
+C:\Users\Piotrek\source\repos\InterviewTask\InterviewTask\bin\Release\netcoreapp3.1\InterviewTask.deps.json
+C:\Users\Piotrek\source\repos\InterviewTask\InterviewTask\bin\Release\netcoreapp3.1\InterviewTask.runtimeconfig.json
+C:\Users\Piotrek\source\repos\InterviewTask\InterviewTask\bin\Release\netcoreapp3.1\InterviewTask.runtimeconfig.dev.json
+C:\Users\Piotrek\source\repos\InterviewTask\InterviewTask\bin\Release\netcoreapp3.1\InterviewTask.dll
+C:\Users\Piotrek\source\repos\InterviewTask\InterviewTask\bin\Release\netcoreapp3.1\InterviewTask.pdb
+C:\Users\Piotrek\source\repos\InterviewTask\InterviewTask\obj\Release\netcoreapp3.1\InterviewTask.csprojAssemblyReference.cache
+C:\Users\Piotrek\source\repos\InterviewTask\InterviewTask\obj\Release\netcoreapp3.1\InterviewTask.AssemblyInfoInputs.cache
+C:\Users\Piotrek\source\repos\InterviewTask\InterviewTask\obj\Release\netcoreapp3.1\InterviewTask.AssemblyInfo.cs
+C:\Users\Piotrek\source\repos\InterviewTask\InterviewTask\obj\Release\netcoreapp3.1\InterviewTask.csproj.CoreCompileInputs.cache
+C:\Users\Piotrek\source\repos\InterviewTask\InterviewTask\obj\Release\netcoreapp3.1\InterviewTask.dll
+C:\Users\Piotrek\source\repos\InterviewTask\InterviewTask\obj\Release\netcoreapp3.1\InterviewTask.pdb
+C:\Users\Piotrek\source\repos\InterviewTask\InterviewTask\obj\Release\netcoreapp3.1\InterviewTask.genruntimeconfig.cache
